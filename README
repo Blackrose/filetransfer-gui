@@ -1,0 +1,8 @@
+filetransfer-gui
+
+How to compiler and run it?
+Compiler:
+1.You must install qt before execute qmake command.
+2.qmake will be generate a make file.
+3.execute programe.
+
